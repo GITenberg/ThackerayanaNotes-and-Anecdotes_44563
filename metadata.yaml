@@ -1,0 +1,42 @@
+_repo: ThackerayanaNotes-and-Anecdotes_44563
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Grego, Joseph
+    birthdate: 1843
+    deathdate: 1908
+    gutenberg_agent_id: '42813'
+    url: http://www.gutenberg.org/2009/agents/42813
+  illustrator:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Titmarsh, M. A.
+    - Thackeray, W. M.
+    - Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2014-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thackeray, William Makepeace, 1811-1863 -- Books and reading'
+- !lcsh 'Thackeray, William Makepeace, 1811-1863'
+- !lcc 'PR'
+- !lcsh 'Thackeray, William Makepeace, 1811-1863 -- Library'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+title: 'Thackerayana: Notes and Anecdotes'
+url: http://www.gutenberg.org/ebooks/44563
